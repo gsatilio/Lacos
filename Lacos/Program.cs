@@ -17,6 +17,7 @@ do
     contador++;
 } while (contador <= max);
 
+// teste 
 //laço de while
 aux = n1;
 Console.WriteLine("aqui eh o while");
